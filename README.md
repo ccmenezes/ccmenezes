@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm Claudia Menezes a.k.a Claudinha
+
+I'm a software test specialist following in love with agile methodologies and working with test automation constantly flirting with DevOps engineering.
+QA engineer for 12+ years now. Devops for 1+ year.
 
 <!--
 **ccmenezes/ccmenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
